@@ -1,4 +1,4 @@
-###### Trần Quang Linh -16021031
+﻿###### Trần Quang Linh -16021031
 
 ### Tổng kết quá trình học tập môn học Công nghệ phần mềm
 
@@ -42,3 +42,16 @@
  2) Tham gia làm slide thuyết trình của nhóm, tham gia làm bài tập lớn của nhóm và đã có minh chứng rõ ràng.
  
  3) Tự học thêm các kiến thức ngoài bổ trợ cho môn học.
+
+- Người chấm: Đỗ Huy Linh.
+- Điểm: 9.
+- Nhận xét:
+   - Tham gia khóa học html, css ,javascrip,
+   - Hoàn thành Edx có ảnh minh họa
+   - Tham gia làm slide thuyết trình, bài tập lớn
+ 
+-Người chấm: Lê Hồng Hội
+-Điểm: 9
+-Nhận xét:
+	+ hoàn thành các khóa học có minh chứng đấy đủ
+	+ tham gia làm bài tập lớn và thuyết trình
